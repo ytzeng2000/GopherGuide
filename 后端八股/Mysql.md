@@ -1,6 +1,7 @@
 # Mysql
 
 **索引、事务、日志**
+
 ![alt text](image.png)
 
 ### mysql 参数配置
